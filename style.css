@@ -1,0 +1,17 @@
+html, body, header, #intro {
+    height: 100%;
+    
+}
+
+#intro {
+    background: url("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1598182407790&di=6e7c71a6016d5812163571ec728c27a9&imgtype=0&src=http%3A%2F%2Fww4.sinaimg.cn%2Flarge%2F670172e1jw1f9f9abxkdsj21kw10un45.jpg") 
+    no-repeat center center fixed;
+    background-color: rgba(255,255,255,255,0.1);
+    
+    background-size: cover;
+}
+#fucker {
+    background: url("https://colorlib.com/preview/theme/skwela/images/big_image_3.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+}
